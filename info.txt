@@ -1,0 +1,8 @@
+Name: Payeer Gateway;
+Parent Addon: user-balance;
+Version: 1.3.2;
+Support Core: 16.24.0;
+Item ID: 10625;
+Description: Подключение сайта к платежному агрегатору Payeer https://payeer.com;
+Author: Плечев Андрей;
+Author URI: http://codeseller.ru/;
